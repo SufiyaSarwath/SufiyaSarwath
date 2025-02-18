@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sufiya Sarwath  
-I'm a computer science student. 
+I'm a computer science student with a passion for AI and Data Science. I love exploring and learning new things. 
 
 ## 🚀 Tech Stack  
 
