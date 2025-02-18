@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sufiya Sarwath  
-I'm a computer science student 
+I'm a computer science student. 
 
 ## 🚀 Tech Stack  
 
@@ -29,6 +29,7 @@ I'm a computer science student
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sufiya-sarwath)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://github.com/SufiyaSarwath)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sufiyasarwath23@gmail.com)  
 
 ## 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SufiyaSarwath&theme=darkhub&margin-w=15&margin-h=15&no-frame=true)
