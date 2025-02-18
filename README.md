@@ -9,6 +9,10 @@ I'm a computer science student
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sufiya-sarwath)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://github.com/SufiyaSarwath)  
 
+## 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SufiyaSarwath&theme=darkhub&margin-w=15&margin-h=15&no-frame=true)
+
+
 <!--
 **SufiyaSarwath/SufiyaSarwath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
